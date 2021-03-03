@@ -1,0 +1,13 @@
+C:\Users\ardak\source\repos\SonsuzDegiskenConsole3\SonsuzDegiskenConsole3\bin\Debug\netcoreapp3.1\SonsuzDegiskenConsole3.exe
+C:\Users\ardak\source\repos\SonsuzDegiskenConsole3\SonsuzDegiskenConsole3\bin\Debug\netcoreapp3.1\SonsuzDegiskenConsole3.deps.json
+C:\Users\ardak\source\repos\SonsuzDegiskenConsole3\SonsuzDegiskenConsole3\bin\Debug\netcoreapp3.1\SonsuzDegiskenConsole3.runtimeconfig.json
+C:\Users\ardak\source\repos\SonsuzDegiskenConsole3\SonsuzDegiskenConsole3\bin\Debug\netcoreapp3.1\SonsuzDegiskenConsole3.runtimeconfig.dev.json
+C:\Users\ardak\source\repos\SonsuzDegiskenConsole3\SonsuzDegiskenConsole3\bin\Debug\netcoreapp3.1\SonsuzDegiskenConsole3.dll
+C:\Users\ardak\source\repos\SonsuzDegiskenConsole3\SonsuzDegiskenConsole3\bin\Debug\netcoreapp3.1\SonsuzDegiskenConsole3.pdb
+C:\Users\ardak\source\repos\SonsuzDegiskenConsole3\SonsuzDegiskenConsole3\obj\Debug\netcoreapp3.1\SonsuzDegiskenConsole3.csprojAssemblyReference.cache
+C:\Users\ardak\source\repos\SonsuzDegiskenConsole3\SonsuzDegiskenConsole3\obj\Debug\netcoreapp3.1\SonsuzDegiskenConsole3.AssemblyInfoInputs.cache
+C:\Users\ardak\source\repos\SonsuzDegiskenConsole3\SonsuzDegiskenConsole3\obj\Debug\netcoreapp3.1\SonsuzDegiskenConsole3.AssemblyInfo.cs
+C:\Users\ardak\source\repos\SonsuzDegiskenConsole3\SonsuzDegiskenConsole3\obj\Debug\netcoreapp3.1\SonsuzDegiskenConsole3.csproj.CoreCompileInputs.cache
+C:\Users\ardak\source\repos\SonsuzDegiskenConsole3\SonsuzDegiskenConsole3\obj\Debug\netcoreapp3.1\SonsuzDegiskenConsole3.dll
+C:\Users\ardak\source\repos\SonsuzDegiskenConsole3\SonsuzDegiskenConsole3\obj\Debug\netcoreapp3.1\SonsuzDegiskenConsole3.pdb
+C:\Users\ardak\source\repos\SonsuzDegiskenConsole3\SonsuzDegiskenConsole3\obj\Debug\netcoreapp3.1\SonsuzDegiskenConsole3.genruntimeconfig.cache
